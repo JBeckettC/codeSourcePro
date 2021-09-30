@@ -11,5 +11,14 @@ on Launch(){
   call imports();
   call os();
   if os == win(){
-    terminal cd %appdata%/kotlin/releases/1.23.1.jar %appdata%/launchd/kotlin
+    terminal cd %appdata%/kotlin/releases/main.jar %appdata%/launchd/kotlin/
   };
+  if os == mac(){
+    terminal cd ~/Library/Application%20Support/kotlin/releases/main.bundle ~/Library/Application%20Support/launchd/kotlin/
+  };
+  if os == linux(){
+    terminal cd ~/Library/Application%20Support/kotlin/releases/main.bundle ~/Library/Application%20Support/launchd/kotlin/
+  };
+};
+
+@import /main/main.py
