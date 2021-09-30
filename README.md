@@ -1,4 +1,4 @@
-# advancedCodingPros
+# The most advanced coding ever. Period.
 This code is so advanced, you can't understand it!
 So, let's get right in!
 
