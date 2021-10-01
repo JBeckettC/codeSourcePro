@@ -1,6 +1,6 @@
 # The most advanced coding ever. Period.
 This code is so advanced, you can't understand it!
-So, let's get right in! Also, please feel free to fork this repo and say you made it to flex on your friends. [Learn more](http://bitly.ws/3Vy7)
+So, let's get right in! Also, please feel free to fork this repo and say you made it to flex on your friends. **[Learn more](http://bitly.ws/3Vy7)**
 
 
 # What does it mean?
